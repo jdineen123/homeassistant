@@ -14,7 +14,7 @@ Turn off/on my lights.
 
 Tell me Jokes/Greet me.
 
-Perform basic math (Addition/Subtraction/Multiplication/Powers). 
+Perform basic math (Addition/Subtraction/Multiplication/exponents). 
 
 Launch programs from sys + some other little tasks.
 
